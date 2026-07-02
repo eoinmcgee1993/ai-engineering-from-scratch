@@ -1,0 +1,18 @@
+{
+  "name": "lexis-ebook-generator",
+  "version": "1.0.0",
+  "description": "LEXIS OS Emagazine PDF Generator",
+  "main": "generate-ebook.js",
+  "scripts": {
+    "generate": "node generate-ebook.js"
+  },
+  "keywords": ["lexis", "ebook", "pdf", "generator"],
+  "author": "Owen McGee",
+  "license": "MIT",
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
