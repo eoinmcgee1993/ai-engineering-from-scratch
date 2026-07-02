@@ -1,4 +1,13 @@
-<p align="center">
+# Clone/navigate to your repo
+cd ai-engineering-from-scratch
+
+# Install dependencies
+npm install
+
+# Generate the PDF
+npm run generate
+
+# Output: ./dist/LEXIS_OS_Emagazine_Q3_2026.pdf<p align="center">
   <img src="assets/banner.svg" alt="AI Engineering from Scratch — reference manual banner" width="100%">
 </p>
 
